@@ -1,6 +1,4 @@
-/*Exercise 4:
- * Autor:Yael Liberman
- * I.D.:318376449
+/*
  * Chat Server with select
  */
 #ifndef list_h
